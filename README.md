@@ -27,6 +27,8 @@ Developed strong skills in HTML, CSS, JavaScript, and Git for effective web deve
 🎓 **Specialist Degree, Pharmacy, Voronezh State University**  
 *Sep 2010 – Aug 2015*  
 
+### 📚 [My projects](https://github.com/stars/AnnetDev/lists/my-stack)
+
 ### 💼 Experience
 
 **Frontend Developer | Liga A (Remote Internship)**  
