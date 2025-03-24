@@ -1,6 +1,6 @@
 # Anna-Baidikova
 
-### Hi there! I'm Anna Baidikova 👋🏻 
+### Hi there! I'm Anna 👋🏻 
 
 ### 👩🏼‍💻 About Me  
 I am a Frontend & Web Developer with hands-on experience in HTML, CSS, JavaScript, React, and WordPress. I create user-friendly, responsive websites using modern tools and methodologies. Before transitioning into web development in 2023, I built a successful career in the pharmaceutical industry, specializing in marketing, project management, and sales. My diverse background fuels my passion for continuous learning and crafting digital experiences that work seamlessly across devices.
