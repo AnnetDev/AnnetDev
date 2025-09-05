@@ -32,7 +32,7 @@ Developed strong skills in HTML, CSS, JavaScript, and Git for effective web deve
 ### 💼 Experience
 
 **Frontend Developer | Liga A (Remote Internship)**  
-*Mar 2025 – Present*
+*Mar 2025 – Aug 2025*
 
 **Product Marketing Manager | Sanofi (Hybrid)**  
 *Sep 2019 – Mar 2021*  
