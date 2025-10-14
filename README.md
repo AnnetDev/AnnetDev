@@ -4,6 +4,7 @@
 
 ### 👩🏼‍💻 About Me  
 I’m a Frontend & Web Developer with hands-on experience in building modern, accessible, and high-performing web applications. I’ve completed professional training programs and continue to refine my skills daily, working with technologies such as Next.js, React, TypeScript, JavaScript, HTML, SCSS, Tailwind CSS, and Pug. 
+
 I focus on creating user-friendly, accessible interfaces that improve Lighthouse scores and meet WCAG standards. I’m skilled at transforming complex ideas into clean, scalable, and maintainable code. A strong communicator, I thrive in cross-functional and multicultural environments, collaborating effectively to deliver quality results.
 
 ### 🛠 Tech Stack
