@@ -3,8 +3,8 @@
 ### Hi there! I'm Anna 👋🏻 
 
 ### 👩🏼‍💻 About Me  
-I am a Frontend & Web Developer with hands-on experience. I completed professional training programs and continue to improve my skills daily - working with technologies such as Next.js, React, JavaScrip, TypeScript, HTML, SCSS, Tailwind CSS, PUG, accessibility best practices, and modern build tools. I create user-friendly, accessible websites and components, improving Lighthouse scores and ensuring WCAG compliance. Skilled in turning complex ideas into scalable,
-maintainable code. Strong communicator with experience in cross-functional, multicultural environments.
+I’m a Frontend & Web Developer with hands-on experience in building modern, accessible, and high-performing web applications. I’ve completed professional training programs and continue to refine my skills daily, working with technologies such as Next.js, React, TypeScript, JavaScript, HTML, SCSS, Tailwind CSS, and Pug. 
+I focus on creating user-friendly, accessible interfaces that improve Lighthouse scores and meet WCAG standards. I’m skilled at transforming complex ideas into clean, scalable, and maintainable code. A strong communicator, I thrive in cross-functional and multicultural environments, collaborating effectively to deliver quality results.
 
 ### 🛠 Tech Stack
  
