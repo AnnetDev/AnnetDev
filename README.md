@@ -33,7 +33,7 @@ I focus on creating user-friendly, accessible interfaces that improve Lighthouse
 
 
 ### 📚 Education  
-🎓 **Frontend Developmer, HyperIsland**  
+🎓 **Frontend Developer, HyperIsland**  
 *Ayg 2025 – present*  
 
 🎓 **Web Development, NTI-skolan**  
