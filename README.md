@@ -11,6 +11,7 @@ I focus on creating user-friendly, accessible interfaces that improve Lighthouse
  
 - React.js, Next.js
 - JavaScript, TypeScript
+- Express, Node.js, REST API, MongoDb
 - Tailwind CSS
 - HTML5, CSS3 
 - PUG, SCSS   
